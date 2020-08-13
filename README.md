@@ -11,7 +11,7 @@ Prmotion Bots 홍보봇
 
 |  <center>User Commands</center> |  <center>Administrator Commands</center> |  <center>Developer Commands</center> |
 |:--------|:--------:|--------:|
-|findserver | <center>cell 1x2 </center> |*cell 1x3* |
-| | <center>cell 2x2 </center> |*cell 2x3* |
-| | <center>cell 3x2 </center> |*cell 3x3* |
+|findserver |add  |category |
+| | |compile |
+| | |compile2 |
   
