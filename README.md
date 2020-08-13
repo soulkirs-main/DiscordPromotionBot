@@ -4,7 +4,7 @@ Prmotion Bots 홍보봇
 
   + Settings
 
-    \* Communication
+    * Communication
 
 ---------------------------------------
 + **1**. Bots Commands
