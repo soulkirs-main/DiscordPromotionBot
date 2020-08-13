@@ -1,0 +1,9 @@
+module.exports.token = "" // token
+module.exports.prefix = '' // prefix
+module.exports.owner = [""] // Owner ID
+module.exports.dbHost = '' // DB IP(호스트)
+module.exports.dbUser = '' // DB user
+module.exports.dbPWD = '' // DB password
+module.exports.dbDb = '' // DB name(만든 DB)
+module.exports.dbTable = '' // DB table ( DB에서 만든 테이블 )
+module.exports.activity = '' // Set game
