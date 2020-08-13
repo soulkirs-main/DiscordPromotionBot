@@ -2,7 +2,7 @@ Prmotion Bots 홍보봇
 =============
 * Bot Commands
 
-  * Settings
+  - Settings
 
     * Communication
 
