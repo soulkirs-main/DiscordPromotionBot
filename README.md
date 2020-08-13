@@ -40,7 +40,7 @@ Prmotion Bots 홍보봇
    
    
   
-   **3.** open Terminal and npm i && node sharder or open start.s
+   **3.** open Terminal and npm i && node sharder or open start.sh
    
    ---------------------------------------
    
