@@ -25,7 +25,7 @@ Prmotion Bots 홍보봇
     Bot Super Secret Token
     
     
-   **First**Create Mysql Database and Table
+   **1.** Create Mysql Database and Table
         1.open mysql command line
         2.Please enter create database DBname;
         3.Then, 
@@ -35,11 +35,11 @@ Prmotion Bots 홍보봇
         
        
           
-   **Second**Modify config.example.js to config
+   **2.** Modify config.example.js to config
    
    
   
-   **Third** open Terminal and npm i && node sharder or open start.s
+   **3.** open Terminal and npm i && node sharder or open start.s
    ---------------------------------------
    
   
