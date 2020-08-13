@@ -9,9 +9,10 @@ Prmotion Bots 홍보봇
 ---------------------------------------
 + 1. Bots Commands
 
-|                  | User Commands                        | Administrator Commands              | Developer Commands              |    
+|              | User Commands  | Administrator Commands| Developer Commands              |    
 |:--- | ---: | :---: |  
-|              | findserver           | add              | notice              | 
-|              |                |                |  compile              | 
-|              |                |                |  compile2              |
-|              |                |                |  category              | 
+|              | findserver     | add                   | notice                       | 
+|              |                |                       |  compile               | 
+|              |                |                       |  compile2              |
+|              |                |                       |  category              | 
+  
