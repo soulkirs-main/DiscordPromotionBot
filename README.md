@@ -19,10 +19,10 @@ Prmotion Bots 홍보봇
 + **2**. Settings
 
   Need:
-    Node.js Version 12+
-    Mysql Regular
-    Own Discord ID
-    Bot Super Secret Token
+    Node.js Version 12+,
+    Mysql Regular,
+    Own Discord ID,
+    Bot Super Secret Token,
     
     
    **1.** Create Mysql Database and Table
