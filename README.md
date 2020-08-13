@@ -1,4 +1,4 @@
-Prmotion Bots 홍보봇 
+Discord Prmotion Bots 디스코드 홍보봇 
 =============
 **chapter**
 * Bot Commands
@@ -45,7 +45,15 @@ Prmotion Bots 홍보봇
    **3.** open Terminal and npm i && node sharder or open start.sh
    
    ---------------------------------------
-   + **3. Settings**
+   + **3. Communication**
    ---------------------------------------
+   
+   [Support Discord Channel](https://discord.gg/KpjwFRE)  
+   
+   Developer Discord:Soulkirs.#4411
+   
+   ---------------------------------------
+   
+   Thanks for reading my repo  This repo is always updating!
    
   
