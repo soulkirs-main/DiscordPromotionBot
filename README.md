@@ -9,6 +9,7 @@ Prmotion Bots 홍보봇
 
 ---------------------------------------
 + **1**. Bots Commands
+---------------------------------------
 
 |  <center>Bot Commands</center> |  <center>User Commands</center> |  <center>Administrator Commands</center> |  <center>Developer Commands</center> |
 |:--------|:--------:|--------:|--------:|
@@ -17,12 +18,13 @@ Prmotion Bots 홍보봇
 | | | |compile2 |
 ---------------------------------------
 + **2**. Settings
+---------------------------------------
 
   Need:
     Node.js Version 12+,
     Mysql Regular,
     Own Discord ID,
-    Bot Super Secret Token,
+    Super Secret Bot Token,
     
     
    **1.** Create Mysql Database and Table
@@ -42,6 +44,8 @@ Prmotion Bots 홍보봇
   
    **3.** open Terminal and npm i && node sharder or open start.sh
    
+   ---------------------------------------
+   + **3**. Settings
    ---------------------------------------
    
   
