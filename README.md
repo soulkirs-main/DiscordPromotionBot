@@ -8,7 +8,7 @@ Prmotion Bots 홍보봇
     * Communication
 
 ---------------------------------------
-+ **1. Bots Commands
++ **1. Bots Commands**
 ---------------------------------------
 
 |  <center>Bot Commands</center> |  <center>User Commands</center> |  <center>Administrator Commands</center> |  <center>Developer Commands</center> |
@@ -17,7 +17,7 @@ Prmotion Bots 홍보봇
 | | | |compile |
 | | | |compile2 |
 ---------------------------------------
-+ **2**. Settings
++ **2. Settings**
 ---------------------------------------
 
   Need:
@@ -45,7 +45,7 @@ Prmotion Bots 홍보봇
    **3.** open Terminal and npm i && node sharder or open start.sh
    
    ---------------------------------------
-   + **3. Settings
+   + **3. Settings**
    ---------------------------------------
    
   
