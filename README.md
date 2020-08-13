@@ -38,8 +38,10 @@ Prmotion Bots 홍보봇
    **2.** Modify config.example.js to config
    
    
+   
   
    **3.** open Terminal and npm i && node sharder or open start.s
+   
    ---------------------------------------
    
   
