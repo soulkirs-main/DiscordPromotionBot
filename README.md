@@ -7,7 +7,7 @@ Prmotion Bots 홍보봇
 3. Communication
 
 ---------------------------------------
-+ 1. Bots Commands
++ **1**. Bots Commands
 
 |  <center>Bot Commands</center> |  <center>User Commands</center> |  <center>Administrator Commands</center> |  <center>Developer Commands</center> |
 |:--------|:--------:|--------:|--------:|
