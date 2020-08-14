@@ -1,6 +1,6 @@
-Discord Prmotion Bots 디스코드 홍보봇 
+Discord Prmotion Bots 디스코드 홍보봇   **this Bot is Korean only!**
 =============
-**chapter**                             **Bot is Korean only!**
+**chapter**                             
 * Bot Commands
 
   + Settings
