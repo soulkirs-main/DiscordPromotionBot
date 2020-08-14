@@ -10,12 +10,11 @@ Discord Prmotion Bots 디스코드 홍보봇   **this Bot is Korean only!**
 ---------------------------------------
 + **1. Bots Commands**
 ---------------------------------------
-
-|  <center>Bot Commands</center> |  <center>User Commands</center> |  <center>Administrator Commands</center> |  <center>Developer Commands</center> |
-|:--------|:--------:|--------:|--------:|
-|help |findserver |add  |category |
-| | | |compile |
-| | | |compile2 |
+|  <center>User Commands</center> |  <center>Administrator Commands</center> |  <center>Developer Commands</center> |
+|:--------|:--------:|--------:|
+ |findserver |add  |category |
+ |help | |compile |
+ | | |compile2 |
 ---------------------------------------
 + **2. Settings**
 ---------------------------------------
