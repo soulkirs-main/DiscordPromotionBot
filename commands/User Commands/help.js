@@ -5,7 +5,7 @@ const config = require("../../src/config.js")
 module.exports = {
     name: "도움말",
     aliases: ["h", "도움말", "도움", "ㅗ디ㅔ"],
-    category: "Bot Commands",
+    category: "User Commands",
     description: "도움말",
     usage: "[command name | 다른 사용법]",
     run: async (client, message) => {
