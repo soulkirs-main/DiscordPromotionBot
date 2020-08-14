@@ -26,13 +26,13 @@ Discord Prmotion Bots 디스코드 홍보봇   **this Bot is Korean only!**
     Super Secret Bot Token,
     
     
-   **1. Create Mysql Database and Table
-       > 1.open mysql command line
-       >2.Please enter create database DBname;
-       >3.Then, 
-       > create table tablename (data json);
-       > 4.Enter
-        >insert into tablename values('{"categorylist": []}');
+>	>	>     **1. Create Mysql Database and Table
+>	>	>       1.open mysql command line
+>	>	>       2.Please enter create database DBname;
+>	>	>       3.Then, 
+>	>	>       create table tablename (data json);
+>	>	>       4.Enter
+>	>	>       insert into tablename values('{"categorylist": []}');**
         
        
           
