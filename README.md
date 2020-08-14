@@ -19,21 +19,21 @@ Discord Prmotion Bots 디스코드 홍보봇   **this Bot is Korean only!**
 + **2. Settings**
 ---------------------------------------
 
-  Need:
-    Node.js Version 12+,
-    Mysql Regular,
-    Own Discord ID,
-    Super Secret Bot Token,
+>	>	>    Need:
+>	>	>     Node.js Version 12+,
+>	>	>     Mysql Regular,
+>	>	>     Own Discord ID,
+>	>	>     Super Secret Bot Token,
     
     
->	>	>     **1. Create Mysql Database and Table
+>	>	>       1. Create Mysql Database and Table
 >	>	>       1.open mysql command line
 >	>	>       2.Please enter create database DBname;
 >	>	>       3.Then, 
 >	>	>       create table tablename (data json);
 >	>	>       4.Enter
->	>	>       insert into tablename values('{"categorylist": []}');**
-        
+>	>	>       insert into tablename values('{"categorylist": []}');
+>	>	>               
        
           
    **2.** Modify config.example.js to config
