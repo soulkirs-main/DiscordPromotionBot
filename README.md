@@ -49,6 +49,8 @@ Discord Prmotion Bots 디스코드 홍보봇   **this Bot is Korean only!**
   
    **4.** open Terminal and npm i && node sharder or open start.sh
    
+   **5.** If you excute this bot,Wait until "[Kurasuta] [Cluster] Kurasuta Cluster ready!"
+   
    ---------------------------------------
    + **3. Communication**
    ---------------------------------------
