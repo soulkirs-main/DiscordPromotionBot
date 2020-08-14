@@ -26,7 +26,9 @@ Discord Prmotion Bots 디스코드 홍보봇   **this Bot is Korean only!**
 >	>	>     Super Secret Bot Token,
     
     
->	>	>       1. Create Mysql Database and Table
+       1. Create Mysql Database and Table
+       
+> >       How to create
 >	>	>       1.open mysql command line
 >	>	>       2.Please enter create database DBname;
 >	>	>       3.Then, 
@@ -40,8 +42,12 @@ Discord Prmotion Bots 디스코드 홍보봇   **this Bot is Korean only!**
    
    
    
+   **3.** Entering information in config.js
+   
+   
+   
   
-   **3.** open Terminal and npm i && node sharder or open start.sh
+   **4.** open Terminal and npm i && node sharder or open start.sh
    
    ---------------------------------------
    + **3. Communication**
