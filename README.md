@@ -52,7 +52,7 @@ Discord Prmotion Bots 디스코드 홍보봇   **this Bot is Korean only!**
    Developer Discord:Soulkirs.#4411
    
    ---------------------------------------
-   
+   If you don`t understand,Pls [Invite bot](https://discord.com/login?redirect_to=%2Foauth2%2Fauthorize%3Fclient_id%3D638683182316650506%26permissions%3D8%26scope%3Dbot)   
    Thanks for reading my repo  This repo is always updating!
    
   
