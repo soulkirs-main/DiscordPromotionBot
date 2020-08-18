@@ -14,7 +14,8 @@ Discord Prmotion Bots 디스코드 홍보봇   **this Bot is Korean only!**
 |:--------|:--------:|--------:|
  |findserver |add  |category |
  |help | |compile |
- | | |compile2 |
+ |botinfo | |compile2 |
+ |ping |     |
 ---------------------------------------
 + **2. Settings**
 ---------------------------------------
